@@ -33,6 +33,13 @@ Addressing these inefficiencies is crucial for:
 ## Conclusion
 Through comprehensive data analysis and visualization, I identified key inefficiencies in Amazon’s warehouse operations related to logistics, transport, and storage. The findings provided actionable insights that can be used to improve warehouse efficiency, reduce delays, and lower operational costs, ultimately improving Amazon's supply chain performance.
 
+## Report Overview :
+[<img src="https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard1.png" alt="report1" width="1300" height="550">](https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard1.png) &nbsp;
+
+[<img src="https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard2.png" alt="report2" width="1300" height="550">](https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard2.png) &nbsp;
+
+[<img src="https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard3.png" alt="report3" width="1300" height="550">](https://github.com/tanu4419/FMCG_Warehouse/blob/main/Screenshots/Dashboard3.png) &nbsp;
+
 
 
 
